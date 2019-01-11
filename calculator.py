@@ -44,3 +44,7 @@ def phi(numpy, z, L):
     res = numpy.log((0.5 + r1)/r2) - tmp * res
 
     return 4 * L * res 
+
+if __name__ == '__main__':
+
+    print('This is a module')
