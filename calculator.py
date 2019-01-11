@@ -48,3 +48,8 @@ def phi(numpy, z, L):
 if __name__ == '__main__':
 
     print('This is a module')
+
+    import sys
+
+    sys.exit(0)
+
