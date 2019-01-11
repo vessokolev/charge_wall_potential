@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Use Python 3.6 or later
+
 import numpy
 import calculator
 
